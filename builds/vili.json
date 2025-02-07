@@ -1,27 +1,22 @@
 {
-    "response": [
-      {
-        "maintainer": "kknixx",
-        "oem": "Xiaomi",
-        "device": "Xiaomi 11T Pro",
-        "filename": "EvolutionX-15.0-20250207-vili-10.3-Unofficial.zip",
-        "download": "https://sourceforge.net/projects/evolution-x-vili/files/files/EvolutionX-15.0-20250207-vili-10.3-Unofficial.zip/download",
-        "timestamp": 1738902883,
-        "md5": "28478b8cbf8da4ae61a3cf9745161f7d",
-        "sha256": "53c87eb925173fa6829d788c8a325f4d80f266b2021741f4d89c06909d8a6793",
-        "size": 2512376068,
-        "version": "10.3",
-        "buildtype": "Monthly",
-        "forum": "https://xdaforums.com/t/shared-rom-evolution-x-official-by-paul-android-14-xiaomi-11t-pro.4638783/", 
-        "firmware": "https://xmfirmwareupdater.com/archive/firmware/vili/",
-        "telegram": "https://t.me/Xiaomi11TPro_Vili_Chat",
-        "github": "karthick-kk",
-        "initial_installation_images": [
-            "boot",
-            "dtbo",
-            "vendor_boot"        
-        ]
-      }
-    ]
-  }
- 
+  "response": [
+    {
+      "maintainer": "kknixx",
+      "oem": "Xiaomi",
+      "device": "Xiaomi 11T Pro",
+      "filename": "EvolutionX-15.0-20250207-vili-10.3-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/evolution-x/files/vili/15/EvolutionX-15.0-20250207-vili-10.3-Unofficial.zip/download",
+      "timestamp": 1738934557,
+      "md5": "e6f75760f9158c167528c665018b19d6",
+      "sha256": "6494d8f1f49e7e3e430e1709088b4fccb09615411e32ef3695a50a52e3c707c6",
+      "size": 2512387188,
+      "version": "10.3",
+      "buildtype": "Monthly",
+      "forum": "https://xdaforums.com/t/shared-rom-evolution-x-official-by-paul-android-14-xiaomi-11t-pro.4638783/",
+      "firmware": "https://xmfirmwareupdater.com/archive/firmware/vili/",
+      "paypal": "",
+      "telegram": "https://t.me/Xiaomi11TPro_Vili_Chat",
+      "github": "karthick-kk"
+    }
+  ]
+}
