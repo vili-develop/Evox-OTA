@@ -1,3 +1,11 @@
+===== 11 Feb 2025 =====
+
+NOTES:
+- Sync with latest evox sources
+- Merge latest device blobs and updates
+- Update Susfs v1.5.5
+- Kernel updated to 5.4.289
+
 ===== 08 Feb 2025 =====
 
 NOTES:
