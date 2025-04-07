@@ -1,3 +1,10 @@
+===== 07 Apr 2025 =====
+
+NOTES:
+- Sync with latest evox sources
+- Fix default strong vibration/haptics feedback
+- Improved voip audio routing
+
 ===== 03 Apr 2025 =====
 
 NOTES:
