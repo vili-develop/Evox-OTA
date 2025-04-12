@@ -1,3 +1,10 @@
+===== 12 Apr 2025 =====
+
+NOTES:
+- Updated to sec. patch level 2025.03 (QPR2)
+- Sync with latest evox sources
+- Swith to stock Mi thermal
+
 ===== 07 Apr 2025 =====
 
 NOTES:
