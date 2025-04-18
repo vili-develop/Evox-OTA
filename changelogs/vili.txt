@@ -1,3 +1,9 @@
+===== 18 Apr 2025 =====
+
+NOTES:
+- Updated vendor from V816.0.11.0.UKDMIXM
+- Fix voip audio issues
+
 ===== 12 Apr 2025 =====
 
 NOTES:
