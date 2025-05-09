@@ -5,7 +5,6 @@ NOTES:
 - Switched to Sony dolby and tuned config for vili
 - Updated thermal. Unlocks 2.84 GHz on prime core and better thresholds, credits to @tanzilw
 - Added support for bypass charging
-- Revert voip fixes
 
 ===== 18 Apr 2025 =====
 
