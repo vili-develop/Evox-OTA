@@ -1,3 +1,9 @@
+===== 10 May 2025 =====
+
+NOTES:
+- Fixed volume not switching to vibrate/silent mode during calls
+- Revert intermittent voip fixes
+
 ===== 09 May 2025 =====
 
 NOTES:
