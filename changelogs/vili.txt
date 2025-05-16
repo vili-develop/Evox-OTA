@@ -4,6 +4,7 @@ NOTES:
 - Audio: fixed all voip and audio related bugs
 - Revert KSU Next string to avoid root detection
 - Updated some vendor blobs
+- Removed log spam from BAT and WLAN events
 
 ===== 10 May 2025 =====
 
