@@ -3,7 +3,7 @@
 NOTES:
 - Upstream kernel to 5.4.292
 - Solved some heating and draining issues
-- Switched back to QTI perf stackAdd commentMore actions
+- Switched back to QTI perf stack
 - Fixed OTG detection in TWRP
 
 ===== 19 May 2025 =====
