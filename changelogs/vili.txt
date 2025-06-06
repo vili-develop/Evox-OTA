@@ -1,3 +1,9 @@
+===== 06 June 2025 =====
+
+NOTES:
+- Sync evox source (10.6->10.7)
+- June 2025 sec patch
+
 ===== 04 June 2025 =====
 
 NOTES:
