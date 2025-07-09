@@ -1,3 +1,9 @@
+===== 09 July 2025 =====
+
+Notes:
+- Initial Android 16 release
+- July 2025 sec patch
+
 ===== 14 June 2025 =====
 
 Notes:
