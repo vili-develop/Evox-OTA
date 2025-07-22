@@ -3,6 +3,7 @@
 
 Notes:
 - Fixed lockscreenUI bug
+- Uplift ksu driver to 1.0.9
 
 ===== 21 July 2025 =====
 
