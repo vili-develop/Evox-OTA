@@ -1,8 +1,13 @@
 
+===== 23 July 2025 =====
+
+Notes:
+- Sync evox sources again to fix lockscreenUI glitch
+- Switch to OSS UI for dolby
+
 ===== 22 July 2025 =====
 
 Notes:
-- Fixed lockscreenUI bug
 - Uplift ksu driver to 1.0.9
 
 ===== 21 July 2025 =====
