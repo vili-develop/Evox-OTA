@@ -1,4 +1,9 @@
 
+===== 24 July 2025 =====
+
+Notes:
+- Fix susfs in 1.0.9
+
 ===== 23 July 2025 =====
 
 Notes:
