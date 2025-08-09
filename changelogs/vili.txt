@@ -1,3 +1,8 @@
+===== 09 August 2025 =====
+
+Notes:
+- August security patches
+- Dolby & OSS UI by @swiitchOFF
 
 ===== 24 July 2025 =====
 
