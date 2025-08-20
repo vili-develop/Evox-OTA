@@ -1,3 +1,9 @@
+===== 19 August 2025 =====
+
+Notes:
+- Evolution X 11.1 with August 2025 security patches
+- Dolby & OSS UI by @swiitchOFF
+
 ===== 09 August 2025 =====
 
 Notes:
