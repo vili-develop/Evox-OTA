@@ -1,9 +1,17 @@
+===== 23 September 2025 =====
+
+Notes:
+- Sync evox sources
+
+** Dolby & OSS UI by @swiitchOFF
+
 ===== 14 September 2025 =====
 
 Notes:
 - Sync evox sources
 - Removed kernel and gpu manager from kami's stuff
-- Dolby & OSS UI by @swiitchOFF
+
+** Dolby & OSS UI by @swiitchOFF
 
 ===== 19 August 2025 =====
 
