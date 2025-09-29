@@ -2,6 +2,17 @@
 
 Notes:
 - Sync evox sources
+- Fix wireless audio cast routing
+- kernel 5.4.296
+- Addback kamis stuffs 
+- latest device changes forked from derpfest
+
+** Dolby & OSS UI by @swiitchOFF
+
+===== 23 September 2025 =====
+
+Notes:
+- Sync evox sources
 
 ** Dolby & OSS UI by @swiitchOFF
 
