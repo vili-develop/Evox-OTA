@@ -5,6 +5,7 @@ Notes:
 - dolby: configs: Enable ac4
 - dolby: Patch vendor.dolby.media.c2@1.0-service with libshim_dolby
 - dolby: Create missing dolby related directory
+- fix OTA updater
 
 ===== 29 September 2025 =====
 
