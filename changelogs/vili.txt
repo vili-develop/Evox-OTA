@@ -1,3 +1,10 @@
+===== 10 October 2025 =====
+
+Notes:
+- No device side changes
+- October 2025 sec patch
+- Evox 11.3 source changes
+
 ===== 02 October 2025 =====
 
 Notes:
