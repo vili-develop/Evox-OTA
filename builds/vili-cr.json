@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "kknixx",
+      "oem": "Xiaomi",
+      "device": "Xiaomi 11T Pro",
+      "filename": "crDroidAndroid-16.0-20251117-vili-v12.3.zip",
+      "download": "https://sourceforge.net/projects/kknixx-extended-roms/files/vili/unknown/crDroidAndroid-16.0-20251117-vili-v12.3.zip/download",
+      "timestamp": 1763363633,
+      "md5": "3920abd3c20c7ac99d283d24ca404ede",
+      "sha256": "e80884c7c626873411397303e0fdb5d4d3fe900abb7b24fddd413e8be0286508",
+      "size": 1951619937,
+      "version": "12.3",
+      "buildtype": "Monthly",
+      "forum": "https://t.me/Xiaomi11TPro_Vili_Chat",
+      "firmware": "https://xmfirmwareupdater.com/archive/firmware/vili/",
+      "paypal": "",
+      "telegram": "https://t.me/Xiaomi11TPro_Vili_Chat",
+      "github": "karthick-kk"
+    }
+  ]
+}
