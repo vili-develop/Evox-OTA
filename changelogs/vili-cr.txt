@@ -2,7 +2,6 @@
 
 Notes:
 - susfs 1.5.12
-- unofficial ota hopefully works
 
 ===== 17 November 2025 =====
 
