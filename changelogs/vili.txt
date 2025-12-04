@@ -1,3 +1,8 @@
+===== 04 December 2025 =====
+
+Notes:
+- Fix blur
+
 ===== 03 December 2025 =====
 
 Notes:
