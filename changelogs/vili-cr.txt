@@ -1,3 +1,9 @@
+===== 09 December 2025 =====
+
+Notes:
+- update to CR 12.4 sources
+- December security patch
+
 ===== 19 November 2025 =====
 
 Notes:
