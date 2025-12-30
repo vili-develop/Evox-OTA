@@ -1,3 +1,11 @@
+===== 30 December 2025 =====
+
+Notes:
+- December security patch
+- upstream kernel
+- Updated common blobs from redwood OS2.0.11.0.UMSMIXM
+- Evox qpr1 fixes
+
 ===== 04 December 2025 =====
 
 Notes:
