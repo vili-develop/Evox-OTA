@@ -1,3 +1,8 @@
+===== 10 January 2025 =====
+
+Notes:
+- update to CR 12.5 sources
+
 ===== 09 December 2025 =====
 
 Notes:
