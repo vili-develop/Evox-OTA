@@ -1,3 +1,9 @@
+===== 19 January 2026 =====
+
+Notes:
+- Fixed bluetooth crash
+- Fixed display overlay issues (night light)
+
 ===== 17 January 2026 =====
 
 Notes:
