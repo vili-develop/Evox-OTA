@@ -4,7 +4,8 @@ Notes:
 - Fixed wifi hotspot crash
 - Fixed random camera crash
 - Fixed OTA updater
-- Upstrem kernelsu next v3.0.0 and SUSfs v2.0.0
+- Upstream kernelsu next v3.0.0 and SUSfs v2.0.0
+- Upstream kernel LTS 5.4.302
 - Tweaked UI responsiveness
 
 ===== 19 January 2026 =====
