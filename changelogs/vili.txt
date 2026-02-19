@@ -1,3 +1,12 @@
+===== 19 February 2026 =====
+
+Notes:
+- Fix selinux denials
+- Fix perf HAL to Improve battery and performance
+- Fix mi_thermald unable to hotplug CPUs 
+- Switch to Leica Camera(Experimental)
+- Evox source side changes
+
 ===== 04 February 2026 =====
 
 Notes:
