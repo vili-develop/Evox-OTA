@@ -1,3 +1,10 @@
+===== 09 March 2026 =====
+
+Notes:
+- Merged March 2026 security patches
+- Synced device-side changes from DerpFest
+- Integrated the latest Evox source-side updates
+
 ===== 19 February 2026 =====
 
 Notes:
