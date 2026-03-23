@@ -1,3 +1,10 @@
+===== 23 March 2026 =====
+
+Notes:
+- Evox source changes
+- audio volume enhancements (credit: @swiitchOFF)
+- ksun fixes (version number and superuser grant count)
+
 ===== 09 March 2026 =====
 
 Notes:
