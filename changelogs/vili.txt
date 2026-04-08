@@ -1,3 +1,9 @@
+===== 08 April 2026 =====
+
+Notes:
+- Merged April security patches
+- Switched to TouchServices for high touch sampling rate
+
 ===== 23 March 2026 =====
 
 Notes:
