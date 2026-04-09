@@ -1,3 +1,8 @@
+===== 09 April 2026 =====
+
+Notes:
+- Fix missing touch sampling menu in display setting
+
 ===== 08 April 2026 =====
 
 Notes:
