@@ -1,3 +1,10 @@
+===== 05 May 2026 =====
+
+Notes:
+- Merged May security patches
+- Updated to Evox 11.7
+- Add Gamebar
+
 ===== 25 April 2026 =====
 
 Notes:
